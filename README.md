@@ -1,7 +1,5 @@
 ### Hi there 👋, glad to see you here! 😃
 
-- 🌱 I’m currently learning about Design Patterns and improving my Java skills.
-
 Skills: Java, Javascript, Typescript, SQL, Git, Docker.
 
 Languages: English (Intermediate B1) and Portuguese (Native).
