@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, glad to see you here! 😃
+
+- 🌱 I’m currently learning about Design Patterns and improving my Java skills.
+
+Skills: Java, Javascript, Typescript, SQL, Git, Docker.
+Languages: English (Intermediate B1) and Portuguese (Native).
 
 <!--
 **seltong/seltong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
