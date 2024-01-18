@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seltong)](https://github.com/seltong/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seltong)](https://github.com/ryo-ma/github-profile-trophy)
