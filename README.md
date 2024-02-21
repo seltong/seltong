@@ -2,7 +2,7 @@
 
 Skills: Java, Javascript, Typescript, SQL, Git, Docker.
 
-Languages: English (Intermediate B1) and Portuguese (Native).
+Languages: English (Advanced) and Portuguese (Native).
 
 <!--
 **seltong/seltong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
