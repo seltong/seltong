@@ -1,4 +1,4 @@
-### Hi there 👋, glad to see you here!😄
+### Hi there 👋, glad to see you here! :blush:
 
 Skills: Java, Javascript, Typescript, SQL, Git, Docker.
 
