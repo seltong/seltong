@@ -55,3 +55,13 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seltong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
+
+<br/>
+
+<h2 align="center">🔗 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/selton-guedes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
