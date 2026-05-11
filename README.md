@@ -50,8 +50,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=seltong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Selton's GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seltong&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="36%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seltong&theme=tokyonight" alt="Selton's GitHub stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seltong&theme=tokyonight" alt="Top Languages" width="36%"/>
 </p>
 
 <br/>
